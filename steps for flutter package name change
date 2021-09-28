@@ -1,0 +1,10 @@
+step 1
+dependencies:
+  change_app_package_name: ^0.1.2
+step2 Run this command to change the package name.
+flutter pub run change_app_package_name:main com.new.package.name
+done
+
+_________________________________
+adding app in firebase account
+download googleservices.json file and change in app folder
